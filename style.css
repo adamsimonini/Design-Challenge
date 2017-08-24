@@ -123,5 +123,8 @@ p{
   }
   #mainPhoto{
     min-height: 410px;
-}
+  }
+  #title{
+    padding-top: 0;
+  }
 }
